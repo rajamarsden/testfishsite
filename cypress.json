@@ -1,4 +1,5 @@
 {
+  "vedio":false,
   "reporter": "cypress-mochawesome-reporter",
   "projectId": "ng9q32"
 }
